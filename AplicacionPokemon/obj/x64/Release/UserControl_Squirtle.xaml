@@ -1,0 +1,1101 @@
+﻿<UserControl
+    x:Class="AplicacionPokemon.UserControl_Squirtle"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AplicacionPokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <UserControl.Resources>
+        <Storyboard x:ConnectionId='2' x:Name="PistolaAgua" RepeatBehavior="3x">
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="57.534"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="57.534"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="10.111"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="10.111"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="agua" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="150"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="250"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="250"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="agua" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="-196.281"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="-63.536"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="201.951"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="318.811"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="12.48"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="5.673"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="7.942"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="agua" Storyboard.TargetProperty="(FrameworkElement.FlowDirection)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:00.1000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <FlowDirection>RightToLeft</FlowDirection>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:00.4000000">
+                    <DiscreteObjectKeyFrame.Value>
+                        <FlowDirection>RightToLeft</FlowDirection>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="1.626"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="1.303"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="1.135"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="6.808"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="6.808"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="6.808"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="1.135"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="1.135"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="1.135"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='3' x:Name="Colazo" AutoReverse="True">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="-1.503"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-1.922"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="-115.159"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-134.447"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="detalleCola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="-1.503"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-1.922"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="detalleCola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="-185.11"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-216.004"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="1.941"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-22.124"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="detalleCola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="1.941"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="detalleCola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-19.541"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='4' x:Name="Dormido" AutoReverse="True">
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="esclerDer" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="25.684"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="irisDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="12.214"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="irisDer" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="25.2"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="irisDer" Storyboard.TargetProperty="(UIElement.Visibility)">
+                <DiscreteObjectKeyFrame KeyTime="00:00:00">
+                    <DiscreteObjectKeyFrame.Value>
+                        <Visibility>Visible</Visibility>
+                    </DiscreteObjectKeyFrame.Value>
+                </DiscreteObjectKeyFrame>
+                <DiscreteObjectKeyFrame KeyTime="00:00:00.1000000" Value="Collapsed"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="pupilaDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="pupilaDer" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="irisIzq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="irisIzq" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="pupilaIzq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="pupilaIzq" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimation Duration="00:00:00.1000000" Storyboard.TargetName="cejaDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-97.347"/>
+            <DoubleAnimation Duration="00:00:00.1000000" Storyboard.TargetName="cejaIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="164.448"/>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojo_dormidoDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojo_dormidoDer" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojo_dormidoIzq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojo_dormidoIzq" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimation Duration="00:00:00.1000000" Storyboard.TargetName="cejaDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="9.077"/>
+            <DoubleAnimation Duration="00:00:00.1000000" Storyboard.TargetName="cejaDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="3.026"/>
+            <DoubleAnimation Duration="00:00:00.1000000" Storyboard.TargetName="cejaIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="5.558"/>
+            <DoubleAnimation Duration="00:00:00.1000000" Storyboard.TargetName="cejaIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="-1.39"/>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="zzz" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="30"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="zzz" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="30"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='5' x:Name="Cansado" AutoReverse="True">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cabeza" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cabeza" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="5.793"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-0.258"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.305"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.771"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.036"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.771"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="esclerDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="esclerDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="irisDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="irisDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pupilaDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pupilaDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cejaDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cejaDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="irisIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="irisIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pupilaIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="pupilaIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cejaIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0.263249"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.275"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.006"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.031"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0.263"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-2.763"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="1.019"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cejaIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="-0.633553"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="5.417"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-0.634"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="6.929"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-2.147"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="4.66"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-2.147"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="orificioDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="orificioDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="orificioIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-4.538"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="orificioIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="6.051"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="7.563"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="5.294"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.513"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca_cansado" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="7"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="15"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="15"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="15"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca_cansado" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="15"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="15"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="5"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="15"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="5"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="57.534"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="10.111"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca_cansado" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="3.782"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="4.539"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="1.514"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="6.053"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.511"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="3.027"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-1.512"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca_cansado" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-11.345"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-12.859"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-10.591"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.8000000" Value="-0.757"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='6' x:Name="Derrotado" AutoReverse="False">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-81.785"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="detalleCola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-51.466"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="detalleCola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-32.288"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="detalleCola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-81.785"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="esclerDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="16.467"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="esclerDer" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="25.684"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="cola" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="91.795"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="91.795"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="cola" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="46.574"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="46.574"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="irisDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="12.214"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="pupilaDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="8.717"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="cejaDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="3.268"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="irisIzq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="7.917"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="pupilaIzq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="5.811"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="cejaIzq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="3.99"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="orificioDer" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="3.666"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="orificioDer" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="2.6"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="orificioIzq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="orificioIzq" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-89.732"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-14.371"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="58.241"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="caparazonExt" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-51.283"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="caparazonExt" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="32.533"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="caparazonExt" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-89.876"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="caparazonInt" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-42.48"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="caparazonInt" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="47.547"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="caparazonInt" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-89.876"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="pieDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-67.917"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="pieDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="14.783"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="pieDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="-3.782"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="pieIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-90.477"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="pieIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="55.972"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="pieIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="42.357"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cabeza" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-86.792"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cabeza" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="128.308"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cabeza" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-92.268"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="boca" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-72.359"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="boca" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="120.09"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="boca" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-92.268"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="brazoDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-50.495"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="brazoDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="67.883"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="brazoDer" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-79.528"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoDer2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-42.684"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoDer2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="54.756"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoDer2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-93.832"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoDer1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-34.57"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoDer1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="68.727"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoDer1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-93.123"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="brazoIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="10.644"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="brazoIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="110.094"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="brazoIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-72.6"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="47.298"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="113.201"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="dedoIzq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-121.514"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleArriba" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-73.868"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleArriba" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="56.828"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleArriba" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-93.787"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleAbajo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-29.722"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleAbajo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="11.22"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleAbajo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-100.922"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleAbajo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)" To="1.114"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="capDetalleAbajo" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)" To="0.863"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet9" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="13.229"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet9" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="27.535"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet9" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-87.93"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-92.89"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="74.881"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-8.32"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="86.228"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-7.186"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-5.907"/>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-31.011"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="cola" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-3.783"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet5" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="62.023"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet5" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-0.756"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet6" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-63.374"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet6" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="19.666"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet6" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="74.124"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet4" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="83.202"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet4" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-27.23"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet8" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)" To="1.061"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet8" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)" To="1.287"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet8" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="26.984"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet8" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="45.333"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet3" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-34.134"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet3" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="49.629"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet3" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)" To="0.641"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet3" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-44.252"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet5" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="97.41"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleX)" To="0.692"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.ScaleY)" To="0.805"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet8" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="-77.176"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet7" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)" To="-21.178"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet7" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)" To="34.415"/>
+            <DoubleAnimation Duration="00:00:00.2000000" Storyboard.TargetName="cuerpoDet7" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.Rotation)" To="44.093"/>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojos_derrotado_izq" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="30"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojos_derrotado_izq" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="30"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojos_derrotado_der" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="30"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="ojos_derrotado_der" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="30"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="ojos_derrotado_der" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-44.627"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-44.627"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="ojos_derrotado_der" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="45.383"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="45.383"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="ojos_derrotado_izq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="68.074"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="68.074"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="ojos_derrotado_izq" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-45.382"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-45.382"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:ConnectionId='7' x:Name="Burbuja">
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="57.534"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="57.534"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="10.111"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="10.111"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="20"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="-3.782"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="-3.782"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-3.782"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="boca_pistola_agua" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0.756"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="0.756"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="0.756"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b1" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b1" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-14.372"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="-185.313"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="-319.192"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b1" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.1000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="-1.512"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="-3.025"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="-4.538"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b2" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b2" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="-14.371"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="-201.196"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-362.305"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b2" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.2000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="0.756"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.8000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="3.026"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b3" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b3" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b3" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.3000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="-11.346"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-216.324"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-360.792"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b3" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.9000000" Value="-0.756"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.3000000" Value="-4.538"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b4" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.4000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b4" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.4000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b4" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="1.513"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="3.782"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.4000000" Value="6.808"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b4" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.4000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="-13.615"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01" Value="-220.106"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.4000000" Value="-347.178"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b5" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b5" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b5" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-2.269"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="-3.782"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-4.538"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b5" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.5000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="-15.128"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.1000000" Value="-226.158"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.5000000" Value="-336.589"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b6" Storyboard.TargetProperty="(FrameworkElement.Width)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames EnableDependentAnimation="True" Storyboard.TargetName="b6" Storyboard.TargetProperty="(FrameworkElement.Height)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="17"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b6" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="-14.371"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="-229.182"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="-357.01"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetName="b6" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+                <EasingDoubleKeyFrame KeyTime="00:00:00.6000000" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:00.7000000" Value="3.026"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.2000000" Value="5.295"/>
+                <EasingDoubleKeyFrame KeyTime="00:00:01.6000000" Value="9.077"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+
+    </UserControl.Resources>
+
+    <Grid Margin="0,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="107*"/>
+            <RowDefinition Height="107*"/>
+            <RowDefinition Height="755*"/>
+            <RowDefinition Height="31"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="379*"/>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:ConnectionId='8' x:Name="fondo" Grid.RowSpan="4" Source="/Assets/fondo.jpg" Grid.ColumnSpan="5" Stretch="UniformToFill" VerticalAlignment="Top" Margin="0,0,-2,0"/>
+        <ProgressBar x:ConnectionId='9' x:Name="b_vida" Margin="5,5,5,5" VerticalAlignment="Stretch" Background="#FFB8B8C5" Value="10" Foreground="#FFFF2000" Grid.Row="0" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Stretch" Grid.Column="2"/>
+        <ProgressBar x:ConnectionId='10' x:Name="b_energia" Grid.Column="2" Margin="5,5,5,5" VerticalAlignment="Stretch" Grid.Row="1" Background="#FFB8B8C5" Value="20" Foreground="#FFFFF200"/>
+        <Image x:ConnectionId='11' x:Name="vida" Margin="5,5,5,5" Source="/Assets/corazon6.png" FocusVisualPrimaryBrush="{x:Null}"/>
+        <Image x:ConnectionId='12' x:Name="energia" Margin="5,5,5,5" Grid.Row="1" Source="/Assets/Energia2.png"/>
+        <Image x:ConnectionId='13' x:Name="p_vida" Margin="5,5,5,5" Grid.Column="3" Source="/Assets/pocion_vida2.png"                               />
+        <Image x:ConnectionId='14' x:Name="p_energia" HorizontalAlignment="Center" Grid.Row="1" Source="/Assets/pocion_energia4.png" Grid.Column="3" Margin="0,5,0,5"                                   Width="96"/>
+
+        <Viewbox x:ConnectionId='15' x:Name="viewbox" Margin="0,150,0,0" Grid.Row="2" Grid.Column="2" Stretch="Uniform" RenderTransformOrigin="0.5,0.5" VerticalAlignment="Bottom">
+            <Viewbox.RenderTransform>
+                <CompositeTransform/>
+            </Viewbox.RenderTransform>
+            <Canvas HorizontalAlignment="Center" Height="333" VerticalAlignment="Center" Width="799" Grid.Column="2" Grid.Row="3">
+                <Path x:ConnectionId='23' x:Name="cola" Data="M64.758,-0.28699991 C77.515776,-0.28699938 79.560088,10.585688 79.560088,22.487148 79.560088,34.388611 65.214966,45.287297 52.457189,45.287297 51.460487,45.287297 36.296394,45.287296 23.95739,43.713287 6.6021973,41.499393 3.1580001,41.312995 3.1580001,41.312995 2.1238228,38.866361 40.336637,28.076572 40.336637,25.287166 40.336637,13.385707 52.000222,-0.28699938 64.758,-0.28699991 z" Fill="#FF12E0ED" Height="46.574" Canvas.Left="434.73" Stretch="Fill" Stroke="Black" Canvas.Top="153.109" Width="91.795" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='24' x:Name="detalleCola" Data="M195.45863,182.01635 C195.45863,182.01647 186.15211,172.4434 181.42467,178.11633 178.48862,181.63959 178.34722,183.96634 179.29133,189.31633 180.86519,198.23487 186.84954,197.80412 196.89133,199.983" Fill="#FF12E0ED" Height="24.663" Canvas.Left="499.172" Stretch="Fill" Stroke="Black" Canvas.Top="166.853" Width="19.119" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='25' x:Name="pieIzq" Data="M26.303137,0.5 C37.735722,0.5 41.70536,8.5920217 41.70536,24.000679 41.70536,32.186523 36.994013,41.504706 36.994013,41.504706 36.994013,41.504706 23.600721,52.663656 19.808237,54.551114 16.253772,56.320114 16.750248,49.323826 16.482092,49.266994 L7.0580134,53.229656 C7.0580134,53.229656 7.0580134,46.624638 7.0580134,46.624638 7.0580134,46.624638 1.0515913,47.620088 0.96077344,47.449751 0.96077344,47.449751 6.6835741,36.342366 6.683575,35.236373 6.6835741,19.827717 14.870549,0.5 26.303137,0.5 z" Fill="#FF12E0ED" Height="44.872" Stretch="Fill" Stroke="Black" Width="40.199" Canvas.Left="381.193" Canvas.Top="171.842" UseLayoutRounding="False" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='26' x:Name="brazoIzq" Data="M27.265963,-4.1666106 C38.698548,-4.1666106 38.727074,11.012425 38.727074,26.421082 38.727074,34.606926 35.285695,41.914845 31.119393,47.018498 L31.748677,47.039508 14.467447,63.018276 C14.467447,63.018276 8.3903523,66.383555 7.8360823,66.266085 L7.4598077,56.432166 -3.6263784,57.639324 C-4.7491473,57.401374 1.7137303,46.201435 1.7137303,46.201435 1.7137303,46.201435 4.6025989,31.973743 4.6025989,31.973743 4.6025989,31.973743 9.1293891,14.788295 9.6948015,13.837754 22.962773,-8.4676622 15.833375,-4.1666106 27.265963,-4.1666106 z" Fill="#FF12E0ED" Height="70.053" Stretch="Fill" Stroke="Black" Width="30.648" RenderTransformOrigin="0.5,0.5" Canvas.Left="383.642" Canvas.Top="95.606" UseLayoutRounding="False">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="48.914" ScaleX="1.018" ScaleY="0.982" SkewY="1.752" TranslateX="-5.2401006765119078" TranslateY="-1.0930156820278967"/>
+                    </Path.RenderTransform>
+                </Path>
+
+
+                <Ellipse x:ConnectionId='27' x:Name="cuerpo" Height="91.347" Canvas.Left="392.763" Stroke="Black" Canvas.Top="103.879" Width="76.571" Fill="#FFF4DD91" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Path x:ConnectionId='28' x:Name="caparazonExt" Data="M0.5,0.5 L0.84770775,0.51167625 C9.4042473,1.086979 16.273998,19.675153 16.273998,42.52145 16.273998,65.367748 9.4042473,83.955921 0.84770775,84.531223 L0.5,84.542903 z" Fill="#FFA76251" Height="83.042" Canvas.Left="462.133" Stretch="Fill" Stroke="Black" Canvas.Top="103.879" Width="16.774" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Rectangle x:ConnectionId='29' x:Name="caparazonInt" Height="93.647" Canvas.Left="454.702" Stroke="Black" Canvas.Top="95.279" Width="8.098" Fill="#FFFFFEFE" RenderTransformOrigin="0.5,0.5">
+                    <Rectangle.RenderTransform>
+                        <CompositeTransform/>
+                    </Rectangle.RenderTransform>
+                </Rectangle>
+                <Path x:ConnectionId='30' x:Name="cabeza" Stroke="Black" UseLayoutRounding="True" Fill="#FF00E2FF" Data="M33.293444,0.5 C51.574072,0.50000039 66.393442,15.677548 66.393442,34.400002 66.393442,53.122452 51.574072,68.300003 33.293444,68.300003 16.726629,68.300003 3.0024992,55.834847 0.57483196,39.562638 L0.5,39.014923 0.6166864,38.972306 C3.7759376,37.646256 6.1524454,31.818602 6.1524459,24.81004 6.1524454,22.056677 5.7856632,19.479464 5.1487322,17.281351 L5.000598,16.796753 5.4080606,16.128245 C11.291893,6.7288717 21.582419,0.50000039 33.293444,0.5 z" Height="68.8" Canvas.Left="398.554" RenderTransformOrigin="0.498702775061305,0.501453468936591" Stretch="Fill" Canvas.Top="53.6" Width="66.892">
+                    <Path.RenderTransform>
+                        <CompositeTransform SkewY="-0.477" TranslateY="-0.258"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='31' x:Name="esclerDer" Data="M13.332903,0.5241583 C20.27319,0.5241583 23.197805,14.834232 23.197805,24.296802 23.197805,27.106002 1.0663293,25.426317 1.0663293,25.426317 1.0663293,25.426317 0.81709972,17.776338 0.8170999,14.967138 0.81709972,5.5045675 6.3926167,0.5241583 13.332903,0.5241583 z" Fill="#FFF7F9F9" Height="25.684" Stretch="Fill" Stroke="Black" Width="16.467" Canvas.Left="432.658" Canvas.Top="67.314" UseLayoutRounding="False" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='32' x:Name="irisDer" Data="M13.332903,0.5241583 C20.27319,0.5241583 25.066458,7.0145337 25.066458,16.477104 25.066458,19.286304 25.599113,25.426744 25.599113,25.426744 L1.0663293,25.426317 C1.0663293,25.426317 0.53299982,17.730023 0.533,14.920823 0.53299982,5.4582526 6.3926167,0.5241583 13.332903,0.5241583 z" Fill="#FFB94B73" Height="25.2" Stretch="Fill" Stroke="Black" Width="12.214" RenderTransformOrigin="0.5,0.5" Canvas.Left="433.665" Canvas.Top="67.692" UseLayoutRounding="False">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Ellipse x:ConnectionId='33' x:Name="pupilaDer" Fill="#FF0B0104" Height="14.2" Stroke="Black" Width="8.717" Canvas.Left="433.886" Canvas.Top="74.8" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Path x:ConnectionId='34' x:Name="cejaDer" Data="M333.633,178.966 L338.32064,173.5831" Fill="#FF12E0ED" Height="5.352" Stretch="Fill" Stroke="Black" Width="3.268" Canvas.Left="433.065" Canvas.Top="62.708" UseLayoutRounding="False" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="12.239"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='35' x:Name="irisIzq" Data="M13.332903,0.5241583 C20.27319,0.5241583 25.066458,7.0145337 25.066458,16.477104 25.066458,19.286304 25.599113,25.426744 25.599113,25.426744 L1.0663293,25.426317 C1.0663293,25.426317 0.53299982,17.730023 0.533,14.920823 0.53299982,5.4582526 6.3926167,0.5241583 13.332903,0.5241583 z" Fill="#FFB94B73" Height="18.753" Stretch="Fill" Stroke="Black" Width="7.917" RenderTransformOrigin="0.5,0.5" Canvas.Left="400.472" Canvas.Top="70.378" UseLayoutRounding="False">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="3.19"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Ellipse x:ConnectionId='36' x:Name="pupilaIzq" Fill="#FF0B0104" Height="10.65" Stroke="Black" Width="5.811" Canvas.Left="402.592" Canvas.Top="74.133" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Path x:ConnectionId='37' x:Name="cejaIzq" Data="M333.633,178.966 L339.4621,172.93333" Fill="#FF12E0ED" Height="1" Stretch="Fill" Stroke="Black" Width="3.99" Canvas.Left="408.314" Canvas.Top="69.461" UseLayoutRounding="False" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="97.381" TranslateX="0.26324930064193053" TranslateY="-0.633553119524561"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='38' x:Name="boca" Data="M80.624667,105.583 C88.587041,106.66361 87.16425,104.12258 93.424667,110.383 98.320288,115.27862 100.68802,107.73197 107.82467,107.183 120.2885,106.22424 125.62094,108.50156 136.62467,102.91633" Fill="#FF12E0ED" Height="10.111" Canvas.Left="399.824" Stretch="Fill" Stroke="Black" Canvas.Top="94.116" Width="57.534" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='39' x:Name="orificioDer" Data="M101.42467,104.51633 C102.09449,104.21864 102.98623,104.44166 103.558,103.983 103.86808,103.73426 103.78595,103.17082 104.09133,102.91633" Fill="#FF12E0ED" Height="2.6" Canvas.Left="422.492" Stretch="Fill" Stroke="Black" Canvas.Top="94.116" Width="3.666" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='40' x:Name="orificioIzq" Data="M91.291333,103.983 C90.838785,103.3796 89.979971,103.07983 89.691333,102.383 89.555268,102.05451 89.831394,101.64314 89.691333,101.31633" Fill="#FF12E0ED" Height="3.667" Canvas.Left="410.719" Stretch="Fill" Stroke="Black" Canvas.Top="92.516" Width="2.639" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='41' x:Name="dedoIzq" Data="M59.825333,141.983 C59.034253,143.67064 56.678521,145.12981 55.558667,146.24967 57.09905,147.01986 59.551433,146.87217 60.892,147.84967" Fill="#FF12E0ED" Height="6.867" Canvas.Left="374.625" Stretch="Fill" Stroke="Black" Canvas.Top="133.85" Width="6.333" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='42' x:Name="cuerpoDet1" Data="M80.735939,139.60312 L114.78961,144.15025" Fill="#FF12E0ED" Height="9.914" Canvas.Left="395.939" Stretch="Fill" Stroke="Black" Canvas.Top="130.803" Width="61.419" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='43' x:Name="cuerpoDet2" Data="M71.558667,158.51633 L81.091,168.11633" Fill="#FF12E0ED" Height="18.966" Canvas.Left="392.763" Stretch="Fill" Stroke="Black" Canvas.Top="141.35" Width="10.395" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='44' x:Name="cuerpoDet6" Data="M74.755,175.642 L81.091,169.116" Fill="#FF12E0ED" Height="14.194" Canvas.Left="399.157" Stretch="Fill" Stroke="Black" Canvas.Top="159.649" Width="4.001" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='45' x:Name="cuerpoDet5" Data="M81.525,169.116 L121.536,169.116" Fill="#FF12E0ED" Height="1" Canvas.Left="401.925" Stretch="Fill" Stroke="Black" Canvas.Top="159.649" Width="32.138" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='46' x:Name="cuerpoDet4" Data="M112.598,170.116 L121.536,161.909" Fill="#FF12E0ED" Height="9.207" Canvas.Left="432.998" Stretch="Fill" Stroke="Black" Canvas.Top="152.442" Width="9.938" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='47' x:Name="cuerpoDet7" Data="M112.819,170.116 L124.812,186.783" Fill="#FF12E0ED" Height="17.667" Canvas.Left="433.886" Stretch="Fill" Stroke="Black" Canvas.Top="160.649" Width="12.993" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='48' x:Name="cuerpoDet8" Data="M89.652,195.721 L100.325,188.91633" Fill="#FF12E0ED" Height="7.805" Canvas.Left="410.719" Stretch="Fill" Stroke="Black" Canvas.Top="180.116" Width="10.673" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='49' x:Name="cuerpoDet9" Data="M100.325,188.916 L113.663,197.726" Fill="#FF12E0ED" Height="10.733" Canvas.Left="420.058" Stretch="Fill" Stroke="Black" Canvas.Top="180.783" Width="22.545" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='50' x:Name="pieDer" Fill="#FF12E0ED" Stroke="Black" Width="35.477" Canvas.Left="434.347" Canvas.Top="177.901" UseLayoutRounding="False" Data="M24.192118,0.5 C35.191234,0.5 36.145,8.9875908 36.145,21.428333 36.145,28.037474 29.934971,43.549431 29.934971,43.549431 L23.487406,39.256584 16.718147,42.855835 10.734216,39.015719 1.6678415,39.282384 C1.6678415,39.282384 5.3164299,29.438644 5.3164309,28.545683 5.3164299,16.104939 13.192996,0.5 24.192118,0.5 z M12.859388,42.4715 L12.867921,42.48193" Height="44.049" RenderTransformOrigin="0.499999991314264,0.502753387086014" Stretch="Fill">
+                    <Path.RenderTransform>
+                        <CompositeTransform ScaleX="-1" TranslateX="1.1679999797101317"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='51' x:Name="capDetalleArriba" Data="M141.066,124.91633 L157.84,134.51633" Fill="#FF12E0ED" Height="11.667" Canvas.Left="461.466" Stretch="Fill" Stroke="Black" Canvas.Top="116.116" Width="16.107" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='52' x:Name="capDetalleAbajo" Data="M141.066,182.643 L157.84,168.449" Fill="#FF12E0ED" Height="14.194" Canvas.Left="461.466" Stretch="Fill" Stroke="Black" Canvas.Top="160.649" Width="16.774" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="-7.135"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='53' x:Name="cuerpoDet3" Data="M97.692,142.65 L100.325,188.916" Fill="#FF12E0ED" Height="47.266" Canvas.Left="420.725" Stretch="Fill" Stroke="Black" Canvas.Top="133.85" Width="1" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Ellipse x:ConnectionId='54' x:Name="boca_cansado" Fill="#FFAA0A68" Height="0" Canvas.Left="413.025" Stroke="Black" Canvas.Top="100.783" Width="0" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Path x:ConnectionId='55' x:Name="ojo_dormidoDer" Data="M-7.8125E-06,1.9431656 C12.478126,-0.31849625 5.6434931,-1.50437 18.399992,3.5431656" Fill="{x:Null}" Height="0" Canvas.Left="432.958" Stroke="Black" Canvas.Top="79.107" Width="0" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='56' x:Name="ojo_dormidoIzq" Data="M1.0498047E-05,2.3557648 C9.7759944,-0.55060883 6.8681505,-0.70875615 17.60001,1.5557648" Fill="{x:Null}" Height="0" Canvas.Left="408.158" Stroke="Black" Canvas.Top="80.294" Width="0" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Path.RenderTransform>
+                </Path>
+                <TextBlock x:ConnectionId='57' x:Name="zzz" Height="0" Canvas.Left="416.158" TextWrapping="Wrap" Text="Z z z" Canvas.Top="31.45" Width="0" RenderTransformOrigin="0.5,0.5" FocusVisualPrimaryBrush="Black" Foreground="#FFF9F9FC">
+                    <TextBlock.RenderTransform>
+                        <CompositeTransform/>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <Path x:ConnectionId='58' x:Name="brazoDer" Data="M38.310791,24.170047 C38.310791,32.355891 29.948296,49.940554 29.948296,49.940554 29.948296,49.940554 22.912963,57.307577 22.358693,57.190107 L15.273577,56.810692 4.8994578,58.381837 C4.8994578,58.381837 5.9466523,52.787269 5.9466523,52.787269 5.9466523,52.787269 5.1610493,43.723353 5.5024465,35.889013 5.8023172,29.007617 8.5663547,16.443053 8.8307538,15.99856 22.098726,-6.3068562 38.310791,8.7613896 38.310791,24.170047 z" Fill="#FF12E0ED" Height="41.29" Stretch="Fill" Stroke="Black" Width="30.407" RenderTransformOrigin="0.531,0.451" Canvas.Left="427.33" Canvas.Top="115.819" UseLayoutRounding="False">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="17.368" TranslateX="2.166379961593" TranslateY="-0.14500855198763318"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='59' x:Name="dedoDer2" Data="M125.95867,157.44967 C125.25186,156.57656 125.95867,153.00243 125.95867,151.583 122.71667,152.66367 120.97176,154.78203 117.95867,155.84967" Fill="#FF12E0ED" Height="5.993" Canvas.Left="442.36" Stretch="Fill" Stroke="Black" Canvas.Top="141.449" Width="6.333" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="13.528"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='60' x:Name="dedoDer1" Data="M117.95867,151.583 C116.84139,150.67762 116.19606,147.60576 115.292,146.24967 114.02783,148.14592 113.28706,150.27277 111.55867,151.583" Fill="#FF12E0ED" Height="6.333" Canvas.Left="432.626" Stretch="Fill" Stroke="Black" Canvas.Top="137.45" Width="7.4" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform Rotation="14.237"/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='61' x:Name="ojos_derrotado_izq" Fill="{x:Null}" Height="0" Canvas.Left="363.321" Stroke="Black" Canvas.Top="150.345" Width="0" Data="M13.436767,8.7043514 C12.127823,8.7417498 12.58397,13.481724 8.4367675,11.704351 C6.341851,10.80653 7.4367675,9.3983625 7.4367675,6.7043514 C10.038985,6.1839079 11.510275,5.7043514 14.436767,5.7043514 C15.155752,7.8613046 16.436767,9.309875 16.436767,11.704351 C16.436767,15.77974 17.290676,15.704351 10.436767,15.704351 C7.6199683,15.704351 -4.0549065,14.792695 2.4367675,5.7043514 C5.9142549,0.83586892 23.436767,-7.8752529 23.436767,15.704351 C22.908583,15.809988 17.393927,16.638831 17.436767,16.704351" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Path x:ConnectionId='62' x:Name="ojos_derrotado_der" Fill="{x:Null}" Height="0" Canvas.Left="363.321" Stroke="Black" Canvas.Top="150.345" Width="0" Data="M13.436767,8.7043514 C12.127823,8.7417498 12.58397,13.481724 8.4367675,11.704351 C6.341851,10.80653 7.4367675,9.3983625 7.4367675,6.7043514 C10.038985,6.1839079 11.510275,5.7043514 14.436767,5.7043514 C15.155752,7.8613046 16.436767,9.309875 16.436767,11.704351 C16.436767,15.77974 17.290676,15.704351 10.436767,15.704351 C7.6199683,15.704351 -4.0549065,14.792695 2.4367675,5.7043514 C5.9142549,0.83586892 23.436767,-7.8752529 23.436767,15.704351 C22.908583,15.809988 17.393927,16.638831 17.436767,16.704351" RenderTransformOrigin="0.5,0.5">
+                    <Path.RenderTransform>
+                        <CompositeTransform/>
+                    </Path.RenderTransform>
+                </Path>
+                <Ellipse x:ConnectionId='63' x:Name="boca_pistola_agua" Fill="#FFAA0A68" Height="0" Canvas.Left="409.758" Stroke="{x:Null}" Canvas.Top="97.05" Width="0" RenderTransformOrigin="0.5,0.5" FocusVisualSecondaryBrush="#99FFFFFF" FocusVisualPrimaryBrush="Black">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:ConnectionId='64' x:Name="agua" Height="0" Canvas.Left="197.68" Canvas.Top="85.628" Width="0" RenderTransformOrigin="0.5,0.5" Fill="#FF0C80F3" FlowDirection="RightToLeft">
+                    <Ellipse.Stroke>
+                        <ImageBrush/>
+                    </Ellipse.Stroke>
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+
+                <Ellipse x:ConnectionId='65' x:Name="b1" Height="0" Canvas.Left="412" Stroke="Black" Canvas.Top="101" Width="0" Fill="#FF0007FF" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:ConnectionId='66' x:Name="b2" Height="0" Canvas.Left="412" Stroke="Black" Canvas.Top="101" Width="0" Fill="#FF0007FF" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:ConnectionId='67' x:Name="b3" Height="0" Canvas.Left="412" Stroke="Black" Canvas.Top="101" Width="0" Fill="#FF0007FF" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:ConnectionId='68' x:Name="b4" Height="0" Canvas.Left="412" Stroke="Black" Canvas.Top="101" Width="0" Fill="#FF0007FF" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:ConnectionId='69' x:Name="b5" Height="0" Canvas.Left="412" Stroke="Black" Canvas.Top="101" Width="0" Fill="#FF0007FF" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+                <Ellipse x:ConnectionId='70' x:Name="b6" Height="0" Canvas.Left="412" Stroke="Black" Canvas.Top="101" Width="0" Fill="#FF0007FF" RenderTransformOrigin="0.5,0.5">
+                    <Ellipse.RenderTransform>
+                        <CompositeTransform/>
+                    </Ellipse.RenderTransform>
+                </Ellipse>
+
+            </Canvas>
+        </Viewbox>
+        <Button x:ConnectionId='16' x:Name="boton_pistolaAgua" Content="PistolaAgua" HorizontalAlignment="Stretch" Margin="0,60,0,0" Grid.Row="2" VerticalAlignment="Top"                            FontSize="18" Background="#FFFFA700" Grid.ColumnSpan="2" FontFamily="Segoe UI Emoji"/>
+        <Button x:ConnectionId='17' x:Name="boton_burbuja" Content="Burbuja" HorizontalAlignment="Stretch" Margin="0,102,0,0" Grid.Row="2" VerticalAlignment="Top"                        FontSize="18" Background="#FFFFA700" FontFamily="Segoe UI Emoji"/>
+        <Button x:ConnectionId='18' x:Name="boton_colazo" Content="Colazo" HorizontalAlignment="Stretch" Margin="0,144,0,0" Grid.Row="2" VerticalAlignment="Top"                       FontSize="18" Background="#FFFFA700" FontFamily="Segoe UI Emoji"/>
+        <Button x:ConnectionId='19' x:Name="boton_cansado" Content="Cansado" HorizontalAlignment="Stretch" Margin="0,186,0,0" Grid.Row="2" VerticalAlignment="Top"                        FontSize="18" Background="#FFFFA700" FontFamily="Segoe UI Emoji"/>
+        <Button x:ConnectionId='20' x:Name="boton_dormido" Content="Dormido" HorizontalAlignment="Stretch" Margin="0,228,0,0" Grid.Row="2" VerticalAlignment="Top"                        FontSize="18" Background="#FFFFA700" FontFamily="Segoe UI Emoji"/>
+        <Button x:ConnectionId='21' x:Name="boton_derrotado" Content="Derrotado" HorizontalAlignment="Stretch" Margin="0,270,0,0" Grid.Row="2" VerticalAlignment="Top"                          FontSize="18" Background="#FFFFA700" FontFamily="Segoe UI Emoji"/>
+        <TextBlock x:ConnectionId='22' x:Name="nombre" Grid.Column="2" Grid.Row="3" TextWrapping="Wrap" Text="SQUIRTLE" HorizontalAlignment="Center" FontWeight="Bold" FontSize="24" FocusVisualPrimaryBrush="#FF161616" Foreground="#FF00D7FF" Grid.RowSpan="1" Grid.ColumnSpan="2" Margin="0,2,0,5" VerticalAlignment="Center" FontFamily="Arial Black"/>
+    </Grid>
+</UserControl>
+
