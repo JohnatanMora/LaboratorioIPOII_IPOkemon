@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="AplicacionPokemon.PokeDexPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AplicacionPokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="PokeDex" VerticalAlignment="Top" FontSize="72"/>
+        <local:UserControl_Beedrill x:ConnectionId='2' HorizontalAlignment="Left" Margin="53,616,0,0" VerticalAlignment="Top" Height="263" Width="356" Botones="False"                                     />
+        <local:UserControl_Beedrill x:ConnectionId='3' HorizontalAlignment="Left" Margin="53,145,0,0" VerticalAlignment="Top" Height="263" Width="347" Botones="False"                                     />
+        <local:UserControl_Beedrill x:ConnectionId='4' HorizontalAlignment="Left" Margin="914,145,0,0" VerticalAlignment="Top" Height="263" Width="363" Botones="False"                                     />
+
+    </Grid>
+</Page>
+
