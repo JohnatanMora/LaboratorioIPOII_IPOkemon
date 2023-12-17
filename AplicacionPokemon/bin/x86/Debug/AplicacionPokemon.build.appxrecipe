@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-MTGN4V18</Machine>
+    <WindowsUser>johna</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>9c4649fd-cd4a-4fbb-9c06-df201a347b57</PackageIdentityName>
+    <PackageIdentityPublisher>CN=johna</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.exe">
+      <PackagePath>entrypoint\AplicacionPokemon.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johna\.nuget\packages\microsoft.web.webview2\1.0.1264.42\build\..\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johna\.nuget\packages\microsoft.toolkit.uwp.notifications\7.1.3\lib\uap10.0.16299\Microsoft.Toolkit.Uwp.Notifications.dll">
+      <PackagePath>Microsoft.Toolkit.Uwp.Notifications.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johna\.nuget\packages\microsoft.web.webview2\1.0.1264.42\runtimes\win-x86\native\WebView2Loader.dll">
+      <PackagePath>WebView2Loader.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22000.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johna\.nuget\packages\microsoft.web.webview2\1.0.1264.42\lib\Microsoft.Web.WebView2.Core.winmd">
+      <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\alas.png">
+      <PackagePath>Assets\alas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\atacar.png">
+      <PackagePath>Assets\atacar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\beedrillp.png">
+      <PackagePath>Assets\beedrillp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\BienvenidoIPO.png">
+      <PackagePath>Assets\BienvenidoIPO.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\cola.png">
+      <PackagePath>Assets\cola.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\corazon.png">
+      <PackagePath>Assets\corazon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\corazon6.png">
+      <PackagePath>Assets\corazon6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\corazonpng.png">
+      <PackagePath>Assets\corazonpng.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\dormir.png">
+      <PackagePath>Assets\dormir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\energia.png">
+      <PackagePath>Assets\energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Energia2.png">
+      <PackagePath>Assets\Energia2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\energiapng.png">
+      <PackagePath>Assets\energiapng.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\espejo.png">
+      <PackagePath>Assets\espejo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\espiral.png">
+      <PackagePath>Assets\espiral.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\esquiv.png">
+      <PackagePath>Assets\esquiv.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\FondoInicio.png">
+      <PackagePath>Assets\FondoInicio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\garra.png">
+      <PackagePath>Assets\garra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\garras.png">
+      <PackagePath>Assets\garras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\golpe.png">
+      <PackagePath>Assets\golpe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\herida.png">
+      <PackagePath>Assets\herida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-unplated_targetsize-24.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.png">
+      <PackagePath>Assets\icono_pokeball.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.scale-100.png">
+      <PackagePath>Assets\icono_pokeball.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.scale-125.png">
+      <PackagePath>Assets\icono_pokeball.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.scale-150.png">
+      <PackagePath>Assets\icono_pokeball.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.scale-200.png">
+      <PackagePath>Assets\icono_pokeball.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.scale-400.png">
+      <PackagePath>Assets\icono_pokeball.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.targetsize-16.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.targetsize-24.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.targetsize-256.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.targetsize-32.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\icono_pokeball.targetsize-48.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Jugador.png">
+      <PackagePath>Assets\Jugador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Jugadores.png">
+      <PackagePath>Assets\Jugadores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\letraPokemon.png">
+      <PackagePath>Assets\letraPokemon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\letras_pokemon.png">
+      <PackagePath>Assets\letras_pokemon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\MANKEY.png">
+      <PackagePath>Assets\MANKEY.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\mankeyp.png">
+      <PackagePath>Assets\mankeyp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\masPoke.png">
+      <PackagePath>Assets\masPoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Pocion.png">
+      <PackagePath>Assets\Pocion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\pocionenergia.png">
+      <PackagePath>Assets\pocionenergia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\pocionvida.png">
+      <PackagePath>Assets\pocionvida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\pocion_energia4.png">
+      <PackagePath>Assets\pocion_energia4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\pocion_vida2.png">
+      <PackagePath>Assets\pocion_vida2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\pocvida.png">
+      <PackagePath>Assets\pocvida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Pokecorr.png">
+      <PackagePath>Assets\Pokecorr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Pokeprof.png">
+      <PackagePath>Assets\Pokeprof.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\proteger.png">
+      <PackagePath>Assets\proteger.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\punetazo.png">
+      <PackagePath>Assets\punetazo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\puno.png">
+      <PackagePath>Assets\puno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\recuperar.png">
+      <PackagePath>Assets\recuperar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\recuperarse.png">
+      <PackagePath>Assets\recuperarse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\sleep.png">
+      <PackagePath>Assets\sleep.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\squirtlep.png">
+      <PackagePath>Assets\squirtlep.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\sudor.png">
+      <PackagePath>Assets\sudor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Superpocion.png">
+      <PackagePath>Assets\Superpocion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\z.png">
+      <PackagePath>Assets\z.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\BienvenidoIPO.gif">
+      <PackagePath>Assets\BienvenidoIPO.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\dormir.gif">
+      <PackagePath>Assets\dormir.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Bosque1.jpg">
+      <PackagePath>Assets\Bosque1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Bosque2.jpg">
+      <PackagePath>Assets\Bosque2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\bosquepkm.jpg">
+      <PackagePath>Assets\bosquepkm.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\BosquePokemon.jpg">
+      <PackagePath>Assets\BosquePokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondo.jpg">
+      <PackagePath>Assets\fondo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondoAmarillo.jpg">
+      <PackagePath>Assets\fondoAmarillo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\FondoCaptura.jpg">
+      <PackagePath>Assets\FondoCaptura.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondoPoke.jpg">
+      <PackagePath>Assets\fondoPoke.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondoPokemon.jpg">
+      <PackagePath>Assets\fondoPokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondo_pokemon.jpg">
+      <PackagePath>Assets\fondo_pokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondo_pokemon2.jpg">
+      <PackagePath>Assets\fondo_pokemon2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondo_pokemon3.jpg">
+      <PackagePath>Assets\fondo_pokemon3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Pokeball.jpg">
+      <PackagePath>Assets\Pokeball.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\victoria.jpg">
+      <PackagePath>Assets\victoria.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\fondoPokedex.jpg">
+      <PackagePath>Assets\fondoPokedex.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Squirtle.mp4">
+      <PackagePath>Assets\Squirtle.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Squirtle2.mp4">
+      <PackagePath>Assets\Squirtle2.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\Assets\Robotica.ttf">
+      <PackagePath>Assets\Robotica.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.xr.xml">
+      <PackagePath>AplicacionPokemon.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Capturar.xbf">
+      <PackagePath>Capturar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Combate1J.xbf">
+      <PackagePath>Combate1J.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombatePage.xbf">
+      <PackagePath>CombatePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombateTipo.xbf">
+      <PackagePath>CombateTipo.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\GridViewPrueba.xbf">
+      <PackagePath>GridViewPrueba.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoBeedrillPage.xbf">
+      <PackagePath>InfoBeedrillPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoMankeyPage.xbf">
+      <PackagePath>InfoMankeyPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoSquirtlePage.xbf">
+      <PackagePath>InfoSquirtlePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InicioPage.xbf">
+      <PackagePath>InicioPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Patata.xbf">
+      <PackagePath>Patata.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\PokeDexPage.xbf">
+      <PackagePath>PokeDexPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Beedrill.xbf">
+      <PackagePath>UserControl_Beedrill.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Mankey.xbf">
+      <PackagePath>UserControl_Mankey.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating.xbf">
+      <PackagePath>UserControl_Rating.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating_Squirtle.xbf">
+      <PackagePath>UserControl_Rating_Squirtle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Squirtle.xbf">
+      <PackagePath>UserControl_Squirtle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22000.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22000.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\lib\uap10.0\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AplicacionPokemon.exe">
+      <PackagePath>AplicacionPokemon.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\johna\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.31331.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.31331.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.31327.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.31327.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.14\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
