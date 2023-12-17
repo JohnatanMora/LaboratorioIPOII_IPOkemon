@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-NMNF8DM</Machine>
+    <WindowsUser>PARA MSI</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>9c4649fd-cd4a-4fbb-9c06-df201a347b57</PackageIdentityName>
+    <PackageIdentityPublisher>CN=johna</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\AplicacionPokemon.dll">
+      <PackagePath>AplicacionPokemon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\AplicacionPokemon.exe">
+      <PackagePath>AplicacionPokemon.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\AplicacionPokemon.pdb">
+      <PackagePath>AplicacionPokemon.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\alas.png">
+      <PackagePath>Assets\alas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\atacar.png">
+      <PackagePath>Assets\atacar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\beedrillp.png">
+      <PackagePath>Assets\beedrillp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Bosque1.jpg">
+      <PackagePath>Assets\Bosque1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Bosque2.jpg">
+      <PackagePath>Assets\Bosque2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\bosquepkm.jpg">
+      <PackagePath>Assets\bosquepkm.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\BosquePokemon.jpg">
+      <PackagePath>Assets\BosquePokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\cola.png">
+      <PackagePath>Assets\cola.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\corazon.png">
+      <PackagePath>Assets\corazon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\corazon6.png">
+      <PackagePath>Assets\corazon6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\corazonpng.png">
+      <PackagePath>Assets\corazonpng.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\dormir.gif">
+      <PackagePath>Assets\dormir.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\dormir.png">
+      <PackagePath>Assets\dormir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\energia.png">
+      <PackagePath>Assets\energia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Energia2.png">
+      <PackagePath>Assets\Energia2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\energiapng.png">
+      <PackagePath>Assets\energiapng.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\espejo.png">
+      <PackagePath>Assets\espejo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\espiral.png">
+      <PackagePath>Assets\espiral.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\esquiv.png">
+      <PackagePath>Assets\esquiv.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\fondo.jpg">
+      <PackagePath>Assets\fondo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\FondoCaptura.jpg">
+      <PackagePath>Assets\FondoCaptura.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\fondoPoke.jpg">
+      <PackagePath>Assets\fondoPoke.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\fondoPokedex.jpg">
+      <PackagePath>Assets\fondoPokedex.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\fondoPokemon.jpg">
+      <PackagePath>Assets\fondoPokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\fondo_pokemon.jpg">
+      <PackagePath>Assets\fondo_pokemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\fondo_pokemon2.jpg">
+      <PackagePath>Assets\fondo_pokemon2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\fondo_pokemon3.jpg">
+      <PackagePath>Assets\fondo_pokemon3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\garra.png">
+      <PackagePath>Assets\garra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\garras.png">
+      <PackagePath>Assets\garras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\golpe.png">
+      <PackagePath>Assets\golpe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\herida.png">
+      <PackagePath>Assets\herida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\icono_pokeball.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-unplated_targetsize-24.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\icono_pokeball.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.png">
+      <PackagePath>Assets\icono_pokeball.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.scale-100.png">
+      <PackagePath>Assets\icono_pokeball.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.scale-125.png">
+      <PackagePath>Assets\icono_pokeball.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.scale-150.png">
+      <PackagePath>Assets\icono_pokeball.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.scale-200.png">
+      <PackagePath>Assets\icono_pokeball.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.scale-400.png">
+      <PackagePath>Assets\icono_pokeball.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.targetsize-16.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.targetsize-24.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.targetsize-256.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.targetsize-32.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\icono_pokeball.targetsize-48.png">
+      <PackagePath>Assets\icono_pokeball.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Jugador.png">
+      <PackagePath>Assets\Jugador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Jugadores.png">
+      <PackagePath>Assets\Jugadores.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\letraPokemon.png">
+      <PackagePath>Assets\letraPokemon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\letras_pokemon.png">
+      <PackagePath>Assets\letras_pokemon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\MANKEY.png">
+      <PackagePath>Assets\MANKEY.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\mankeyp.png">
+      <PackagePath>Assets\mankeyp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\masPoke.png">
+      <PackagePath>Assets\masPoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Pocion.png">
+      <PackagePath>Assets\Pocion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\pocionenergia.png">
+      <PackagePath>Assets\pocionenergia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\pocionvida.png">
+      <PackagePath>Assets\pocionvida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\pocion_energia4.png">
+      <PackagePath>Assets\pocion_energia4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\pocion_vida2.png">
+      <PackagePath>Assets\pocion_vida2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\pocvida.png">
+      <PackagePath>Assets\pocvida.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Pokeball.jpg">
+      <PackagePath>Assets\Pokeball.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\proteger.png">
+      <PackagePath>Assets\proteger.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\punetazo.png">
+      <PackagePath>Assets\punetazo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\puno.png">
+      <PackagePath>Assets\puno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\recuperar.png">
+      <PackagePath>Assets\recuperar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\recuperarse.png">
+      <PackagePath>Assets\recuperarse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Robotica.ttf">
+      <PackagePath>Assets\Robotica.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\sleep.png">
+      <PackagePath>Assets\sleep.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Squirtle.mp4">
+      <PackagePath>Assets\Squirtle.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Squirtle2.mp4">
+      <PackagePath>Assets\Squirtle2.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\squirtlep.png">
+      <PackagePath>Assets\squirtlep.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\sudor.png">
+      <PackagePath>Assets\sudor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Superpocion.png">
+      <PackagePath>Assets\Superpocion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Assets\z.png">
+      <PackagePath>Assets\z.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\Microsoft.Web.WebView2.Core.winmd">
+      <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon %282%29\AplicacionPokemon\AplicacionPokemon\bin\x64\Release\ilc\WebView2Loader.dll">
+      <PackagePath>WebView2Loader.dll</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>Win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x86\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\x64\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.8.appx">
+      <Name>Microsoft.UI.Xaml.2.8</Name>
+      <Version>8.2212.15002.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.UI.Xaml.2.8, MinVersion = 8.2212.15002.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\PARA MSI\.nuget\packages\microsoft.ui.xaml\2.8.2\buildTransitive\..\tools\AppX\arm64\Release\Microsoft.UI.Xaml.2.8.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-31116-00\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.12-rel-31116-00\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
