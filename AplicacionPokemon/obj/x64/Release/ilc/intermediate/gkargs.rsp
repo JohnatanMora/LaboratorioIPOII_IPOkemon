@@ -1,0 +1,10 @@
+﻿"C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x64\Release\ilc\in\AplicacionPokemon.exe"
+"C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x64\Release\ilc\in\Microsoft.Toolkit.Uwp.Notifications.dll"
+"C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x64\Release\ilc\in\Microsoft.UI.Xaml.winmd"
+"C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x64\Release\ilc\in\Microsoft.Web.WebView2.Core.winmd"
+/Lib:"C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x64\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\x64\ilc\lib\Private"
+/WinMD:"C:\Users\PARA MSI\OneDrive\Escritorio\PokemonGrupal\Grupo\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{\"IsOptedIn\":true,\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"AppId\":1001,\"UserId\":\"09259768-0860-487b-9b4e-dae529357e55\",\"Id\":\"fd5e27ec-3f79-4380-bfd6-8a5a7df2b824\",\"ProcessStartTime\":638209641520714945}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.12-rel-31116-00\tools\LibraryXML"
+/RunOnlyPreDR
