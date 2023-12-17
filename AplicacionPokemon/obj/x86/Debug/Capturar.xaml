@@ -1,0 +1,61 @@
+﻿<Page
+    x:Class="AplicacionPokemon.Capturar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AplicacionPokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="398*"/>
+            <ColumnDefinition Width="594*"/>
+            <ColumnDefinition Width="397*"/>
+            <ColumnDefinition Width="111*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="120*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <Image Source="/Assets/FondoCaptura.jpg" Stretch="Fill" Grid.RowSpan="7" Grid.ColumnSpan="4"/>
+
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Captura" VerticalAlignment="Center" FontSize="72" Grid.Column="1" Grid.Row="1" Height="96" Width="256"/>
+        <TextBlock x:ConnectionId='2' x:Name="txt_capturado" TextWrapping="Wrap" Text="¡ENHORABUENA, has capturado el Pokemon!" VerticalAlignment="Top" FontSize="50" Grid.Column="1" Grid.Row="4" Margin="10,34,11,0" Grid.RowSpan="2" HorizontalAlignment="Center" Visibility="Collapsed"/>
+        <TextBlock x:ConnectionId='3' x:Name="txt_huido" TextWrapping="Wrap" Text="¡Has huido del combate!" VerticalAlignment="Top" FontSize="50" Grid.Column="1" Grid.Row="4" Margin="10,34,11,0" Grid.RowSpan="2" HorizontalAlignment="Center" Visibility="Collapsed"/>
+        <TextBlock x:ConnectionId='4' x:Name="txt_debilitado" TextWrapping="Wrap" Text="¡Has debilitado al pokemon!" VerticalAlignment="Top" FontSize="50" Grid.Column="1" Grid.Row="4" Margin="10,34,11,0" Grid.RowSpan="2" HorizontalAlignment="Center" Visibility="Collapsed"/>
+
+        <FlipView x:ConnectionId='5' x:Name="fv_pokemon_captura" x:FieldModifier="private" Grid.Column="1" Grid.Row="3" Background="Transparent">
+            <local:UserControl_Beedrill Fondo="False" Botones="False" Nombre="False"/>
+            <local:UserControl_Mankey Fondo="False" Botones="False" Nombre="False"/>
+            <local:UserControl_Squirtle Fondo="False" Botones="False" Nombre="False"/>
+        </FlipView>
+
+        <Button x:ConnectionId='6' x:Name="btn_elegir_captura" Grid.Column="1" Content="Elegir Pokemon" Grid.Row="4" HorizontalAlignment="Center"                                  Height="32" Width="117"/>
+        <Grid x:ConnectionId='7' x:Name="controles_captura" Grid.Column="1" Grid.Row="4" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15*"/>
+                <ColumnDefinition Width="15*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="15*"/>
+            </Grid.RowDefinitions>
+            <Button x:ConnectionId='8' x:Name="btn_atacar" Content="Atacar" Margin="0,0,0,0" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         />
+            <Button x:ConnectionId='9' x:Name="btn_capturar" Content="Capturar" Margin="0,0,0,0" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                           />
+            <Button x:ConnectionId='10' x:Name="btn_huir" Content="Huir" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.ColumnSpan="2"                       />
+
+        </Grid>
+
+
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,82 @@
+﻿<Page
+    x:Class="AplicacionPokemon.CombatePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AplicacionPokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="40*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="120*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Combate" VerticalAlignment="Center" FontSize="72" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3"/>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Jugador 1" VerticalAlignment="Center" FontSize="72" Grid.Column="1" Grid.Row="2"/>
+        <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Text="Jugador 2" VerticalAlignment="Center" FontSize="72" Grid.Column="3" Grid.Row="2"/>
+        <FlipView x:ConnectionId='2' x:Name="fv_jugador1" x:FieldModifier="private" Grid.Column="1" Grid.Row="3" Background="Transparent">
+            <local:UserControl_Beedrill Fondo="False" Botones="False" Nombre="False"/>
+            <local:UserControl_Mankey Fondo="False" Botones="False" Nombre="False"/>
+            <local:UserControl_Squirtle Fondo="False" Botones="False" Nombre="False"/>
+        </FlipView>
+
+        <FlipView x:ConnectionId='3' x:Name="fv_jugador2" x:FieldModifier="private" Grid.Column="3" Grid.Row="3" Background="Transparent">
+            <local:UserControl_Beedrill Fondo="False" Botones="False" Nombre="False"/>
+            <local:UserControl_Mankey Fondo="False" Botones="False" Nombre="False"/>
+            <local:UserControl_Squirtle Fondo="False" Botones="False" Nombre="False"/>
+        </FlipView>
+        <Button x:ConnectionId='4' x:Name="btn_jug1" Grid.Column="1" Content="Elegir Pokemon" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center"                       />
+        <TextBlock x:ConnectionId='5' x:Name="jug1_espera" Grid.Column="1" Text="Turno del jugador 2, espera tu turno." Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Collapsed" FontWeight="Bold" FontSize="24" TextWrapping="Wrap"/>
+        <Button x:ConnectionId='6' x:Name="btn_jug2" Grid.Column="3" Content="Elegir Pokemon" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center"                       />
+        <TextBlock x:ConnectionId='7' x:Name="jug2_espera" Grid.Column="3" Text="Turno del jugador 1, espera tu turno." Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" Visibility="Collapsed" FontWeight="Bold" FontSize="24" TextWrapping="Wrap"/>
+        <Grid x:ConnectionId='8' x:Name="controles_jug1" Grid.Column="1" Grid.Row="4" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15*"/>
+                <ColumnDefinition Width="15*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="15*"/>
+            </Grid.RowDefinitions>
+            <Button x:ConnectionId='16' x:Name="btn_ataque_jug1" Content="Atacar" Margin="0,0,0,0" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                          />
+            <Button x:ConnectionId='17' x:Name="btn_curar_jug1" Content="Curarse" Margin="0,0,0,0" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         />
+            <Button x:ConnectionId='18' x:Name="btn_energia_jug1" Content="Subir Energía" Margin="0,0,0,0" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                                />
+            <Button x:ConnectionId='19' x:Name="btn_rendirse_jug1" Content="Rendirse" Margin="0,0,0,0" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                            />
+        </Grid>
+
+        <Grid x:ConnectionId='9' x:Name="controles_jug2" Grid.Column="3" Grid.Row="4" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15*"/>
+                <ColumnDefinition Width="15*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15*"/>
+                <RowDefinition Height="15*"/>
+            </Grid.RowDefinitions>
+            <Button x:ConnectionId='12' x:Name="btn_ataque_jug2" Content="Atacar" Margin="0,0,0,0" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                          />
+            <Button x:ConnectionId='13' x:Name="btn_curar_jug2" Content="Curarse" Margin="0,0,0,0" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                         />
+            <Button x:ConnectionId='14' x:Name="btn_energia_jug2" Content="Subir Energía" Margin="0,0,0,0" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                                />
+            <Button x:ConnectionId='15' x:Name="btn_rendirse_jug2" Content="Rendirse" Margin="0,0,0,0" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"                            />
+        </Grid>
+        <Image x:ConnectionId='10' x:Name="fondo_combate" Source="/Assets/victoria.jpg" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="5"
+               Grid.RowSpan="7" Stretch="UniformToFill" Visibility="Collapsed"/>
+        <TextBlock x:ConnectionId='11' x:Name="mensaje_victoria" Text="El jugador 1 ha ganado el combate." Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="5"
+               Grid.RowSpan="7" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="72" FontWeight="Bold" FocusVisualPrimaryBrush="White" FocusVisualSecondaryBrush="#99FFFFFF" Visibility="Collapsed"/>
+
+    </Grid>
+</Page>
+

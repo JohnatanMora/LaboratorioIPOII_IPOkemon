@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="AplicacionPokemon.InfoSquirtlePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AplicacionPokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="White">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="186*"/>
+            <RowDefinition Height="51*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="138*"/>
+            <RowDefinition Height="88*"/>
+            <RowDefinition Height="104*"/>
+            <RowDefinition Height="62*"/>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="17*"/>
+            <RowDefinition Height="74*"/>
+            <RowDefinition Height="113*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="189*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="224*"/>
+            <ColumnDefinition Width="178*"/>
+            <ColumnDefinition Width="276*"/>
+            <ColumnDefinition Width="184*"/>
+            <ColumnDefinition Width="14*"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="184*"/>
+            <ColumnDefinition Width="164*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/fondoAmarillo.jpg" Stretch="Fill"></ImageBrush>
+        </Grid.Background>
+
+
+
+        <Image Source="Assets/masPoke.png" Stretch="Fill" Grid.ColumnSpan="10" Grid.RowSpan="12"
+        ></Image>
+        <MediaElement Source="Assets/Squirtle2.mp4" AutoPlay="True" Grid.ColumnSpan="3" Grid.Row="3" Grid.RowSpan="3" Grid.Column="1"/>
+        <TextBlock x:ConnectionId='2' x:Name="Descripcion" TextWrapping="Wrap" FontStretch="Condensed" Text="Squirtle el Pokémon de tipo agua, es un pequeño reptil de color azul verdoso con una cáscara dura en su espalda que lo protege de los ataques enemigos. Tiene una cola corta y gruesa y unos ojos grandes y redondos. Squirtle es conocido por su habilidad para lanzar potentes chorros de agua desde su boca, que puede usar tanto para atacar a sus oponentes como para extinguir fuegos y refrescarse en días calurosos. 
+" TextAlignment="Justify" Grid.Column="5" Grid.ColumnSpan="4" Grid.Row="4" Foreground="#55ad7a"  FontSize="11"  Grid.RowSpan="2" FontFamily="Cascadia Code Light" />
+        <TextBlock x:ConnectionId='3' x:Name="Nombre" TextWrapping="Wrap" Text="Squirtle" TextAlignment="Center" HorizontalTextAlignment="Center" Grid.Column="2" Grid.Row="10" Foreground="Black" FontFamily="Cascadia Code Light" FontSize="40" VerticalAlignment="Center"  />
+        <TextBlock x:ConnectionId='4' x:Name="Tipo" TextWrapping="Wrap" Text="Tipo: Agua" TextAlignment="Center"   Grid.Column="5" Grid.Row="10"  Foreground="#55ad7a" FontFamily="Cascadia Code Light"  FontSize="14" HorizontalTextAlignment="Center" VerticalAlignment="Center"  />
+        <TextBlock x:ConnectionId='5' x:Name="PesAlt" TextWrapping="Wrap" Text="Peso: 9kgs
+                   Altura: 50cm " TextAlignment="Center"  Grid.Column="8" Grid.Row="10"  Foreground="#55ad7a"  FontSize="14" HorizontalTextAlignment="Center" VerticalAlignment="Center" FontFamily="Cascadia Code Light"   />
+    </Grid>
+</Page>
+

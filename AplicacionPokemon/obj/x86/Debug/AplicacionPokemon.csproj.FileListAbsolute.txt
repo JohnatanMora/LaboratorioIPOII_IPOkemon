@@ -1,0 +1,577 @@
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\App.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\MainPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Beedrill.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.xr.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\resources.pri
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AppxManifest.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AppxManifest.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.build.appxrecipe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\System.Runtime.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CopyComplete
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ResourceHandlingTask.state
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ProjectArchitectures.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Patata.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombatePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\PokeDexPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InicioPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoBeedrillPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\App.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombatePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\GridViewPrueba.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoBeedrillPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoSquirtlePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InicioPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\MainPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Patata.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\PokeDexPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Beedrill.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.xr.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\resources.pri
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AppxManifest.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AppxManifest.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.build.appxrecipe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\System.Runtime.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CopyComplete
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ResourceHandlingTask.state
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ProjectArchitectures.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Mankey.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\WebView2Loader.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoMankeyPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\Laboratorio\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.AssemblyReference.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\App.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombatePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\GridViewPrueba.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoBeedrillPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoMankeyPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoSquirtlePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InicioPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\MainPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Patata.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\PokeDexPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Beedrill.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Mankey.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.xr.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\resources.pri
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AppxManifest.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AplicacionPokemon.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.build.appxrecipe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\WebView2Loader.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\System.Runtime.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CopyComplete
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.AssemblyReference.cache
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CoreCompileInputs.cache
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\App.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombatePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\GridViewPrueba.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoBeedrillPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoMankeyPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoSquirtlePage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InicioPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\MainPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Patata.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\PokeDexPage.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Beedrill.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Mankey.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Squirtle.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.xr.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\resources.pri
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AppxManifest.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AplicacionPokemon.exe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AppxManifest.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.build.appxrecipe
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\WebView2Loader.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\System.Runtime.dll
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CopyComplete
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ResourceHandlingTask.state
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ProjectArchitectures.txt
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\App.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Capturar.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Combate1J.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombatePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombateTipo.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\GridViewPrueba.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoBeedrillPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoMankeyPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InfoSquirtlePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\InicioPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\MainPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Patata.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\PokeDexPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Beedrill.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Mankey.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Rating_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\UserControl_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.xr.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\resources.pri
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AppxManifest.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AplicacionPokemon.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\AplicacionPokemon.build.appxrecipe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\WebView2Loader.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\System.Runtime.dll
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Microsoft.Web.WebView2.Core.winmd
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.AssemblyReference.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.i.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xaml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\App.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombatePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\GridViewPrueba.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoBeedrillPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoMankeyPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InfoSquirtlePage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\InicioPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MainPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Patata.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\PokeDexPage.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Beedrill.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Mankey.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Rating_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\UserControl_Squirtle.xbf
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.csproj.CopyComplete
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.exe
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\AplicacionPokemon.pdb
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
+C:\Users\Marcos\OneDrive - Universidad de Castilla-La Mancha\Escritorio\AplicacionPokemon (2)\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\.winmd_cache\$Microsoft.Web.WebView2.Core.winmd_637920505780000000.json
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Capturar.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\Combate1J.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\bin\x86\Debug\CombateTipo.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.g.i.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.g.cs
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.xaml
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Capturar.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\Combate1J.xbf
+D:\Universidad\3ºC\2º Cuatrimestre\Interacción Persona-Ordenador II\AplicacionPokemon\AplicacionPokemon\obj\x86\Debug\CombateTipo.xbf
