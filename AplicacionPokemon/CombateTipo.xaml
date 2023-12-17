@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="AplicacionPokemon.CombateTipo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AplicacionPokemon"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="88*"/>
+            <ColumnDefinition Width="564*"/>
+            <ColumnDefinition Width="230*"/>
+            <ColumnDefinition Width="510*"/>
+            <ColumnDefinition Width="107*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="258*"/>
+            <RowDefinition Height="255*"/>
+            <RowDefinition Height="299*"/>
+            <RowDefinition Height="113*"/>
+            <RowDefinition Height="55*"/>
+        </Grid.RowDefinitions>
+
+        <Image Source="/Assets/Pokeball.jpg" Stretch="Fill" Grid.RowSpan="5" Grid.ColumnSpan="5" Margin="0,0,0,55"/>
+
+        <Button x:Name="btn_Jugador" VerticalAlignment="Center" Grid.Row="1" Click="irCombate1J" Grid.RowSpan="2" Grid.Column="1" HorizontalAlignment="Center" Background="#33FFFFFF">
+            <StackPanel>
+                <Image HorizontalAlignment="Center" Source="/Assets/Jugador.png" Width="490"/>
+                <TextBlock Text="UN JUGADOR" TextWrapping="Wrap" FontSize="48" FontWeight="Bold" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </Button>
+        
+        <Button x:Name="btn_Jugadores" Grid.Row="1" Grid.Column="3" Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center" Background="#33FFFFFF" Click="irCombate2J">
+            <StackPanel>
+                <Image HorizontalAlignment="Center" Source="/Assets/Jugadores.png"/>
+                <TextBlock Text="DOS JUGADORES" TextWrapping="Wrap" FontSize="48" FontWeight="Bold" HorizontalAlignment="Center"/>
+            </StackPanel>
+        </Button>
+        
+
+
+
+    </Grid>
+</Page>
